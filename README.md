@@ -20,7 +20,7 @@ A lightweight Burp Suite extension for quickly switching authentication tokens w
 
 ## Screenshots
 
-![Cookie Switcher V2](./UI.png)
+![Cookie Switcher V2](./Ui.png)
 
 ## How to Use
 
