@@ -18,6 +18,10 @@ A lightweight Burp Suite extension for quickly switching authentication tokens w
 * Custom CSRF header name
 * Settings are saved automatically
 
+## Screenshots
+
+![Cookie Switcher V2](./UI.png)
+
 ## How to Use
 
 * Load `cookie_switcher_v2.py` in **Burp → Extensions**
