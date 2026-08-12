@@ -1,5 +1,4 @@
 # burp-cookie-switcher-v2
-
 A lightweight Burp Suite extension for quickly switching authentication tokens while manually testing **BAC**.
 
 ## Features
